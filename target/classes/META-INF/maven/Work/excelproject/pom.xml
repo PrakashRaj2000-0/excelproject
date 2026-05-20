@@ -21,15 +21,6 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-    	<groupId>OpenCartV1.21</groupId>
-    	<artifactId>OpenCartV1.21</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-    	<groupId>work</groupId>
-    	<artifactId>mavenProject</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
+    
   </dependencies>
 </project>
